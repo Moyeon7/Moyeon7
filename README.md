@@ -27,7 +27,7 @@ Here are some ideas to get you started:
  
  🌱 I’m currently learning **Front-end & Back-end**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **C, C++, Html, CSS, Js... or anything [here](https://github.com/Moyeon7/Moyeon7/issues)**
 
  </div>
  
@@ -66,8 +66,8 @@ Here are some ideas to get you started:
 <hr/> -->
 
 <!--<h2 align="center">⚡ Stats ⚡</h2>-->
-
-
+<img src="https://gifdb.com/images/high/pokemon-cute-pikachu-dancing-isomgua2io3wt0kr.gif" width=400>
+<h2><i>Take a break n do a Pika Pika Dance!</i></h2>
 <hr/>
 
 <br/>

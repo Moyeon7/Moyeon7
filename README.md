@@ -29,6 +29,8 @@ Here are some ideas to get you started:
 
 💬 Ask me about **C, C++, Html, CSS, Js... or anything [here](https://github.com/Moyeon7/Moyeon7/issues)**
 
+⚡ I've done an internship in ADM Education & Welfare Society as a web developer
+
  </div>
  
 <div align="center"> 

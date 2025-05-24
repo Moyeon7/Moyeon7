@@ -27,7 +27,7 @@ Here are some ideas to get you started:
  
  🌱 I’m currently learning **Front-end & Back-end**
 
-💬 Ask me about **C, C++, Html, CSS, Js... or anything [here](https://github.com/Moyeon7/Moyeon7/issues)**
+💬 Ask me about **C, C++, Html, CSS, Js, React, Tailwindcss, MongoDB... or anything [here](https://github.com/Moyeon7/Moyeon7/issues)**
 
 ⚡ I've done an internship in ADM Education & Welfare Society as a web developer
 
